@@ -1,3 +1,27 @@
+# React Native Login App
+
+A simple authentication and theme-enabled mobile app using React Native.
+
+## ✨ Features
+- Login & Logout using Context API
+- Form validation with error messages
+- Global Dark / Light theme toggle
+- Navigation to multiple profile pages:
+  - About
+  - Contact
+  - Education
+  - Hobbies
+
+## 🛠 Tech Stack
+- React Native
+- React Navigation
+- Context API (Global State)
+- Functional Components & Hooks
+
+## 🚀 Getting Started
+
+Install dependencies:
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
