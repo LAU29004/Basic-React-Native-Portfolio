@@ -1,4 +1,4 @@
-# React Native Login App
+# React Native Basic Portfolio App
 
 A simple authentication and theme-enabled mobile app using React Native.
 
